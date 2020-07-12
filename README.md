@@ -2,6 +2,9 @@
 
 **Objective:** Beacon chain visualisation
 
+**Screenshot:**
+![Screenshot](./screenshot.png)
+
 ### Develop Environment
 
 Clone the repository, install Yarn and Node.js, and then run the following in terminal:
@@ -25,6 +28,14 @@ heroku ps
 heroku open
 heroku logs --tail
 heroku restart
+```
+
+* Set Environment Variables
+
+Use the environment variables from the .env file
+
+```
+heroku config:set KEY1=VALUE1 KEY2=VALUE2
 ```
 
 * Stop
