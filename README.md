@@ -57,4 +57,4 @@ kill -9 <PROCESS_ID>
 
 ### References:
 
-* Migrate to SSR - https://dev.to/kedar9/creating-a-node-app-with-react-webpack-4-babel-7-express-and-sass-3mae
+* [Migrate to SSR](https://dev.to/kedar9/creating-a-node-app-with-react-webpack-4-babel-7-express-and-sass-3mae)
